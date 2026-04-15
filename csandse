@@ -29,4 +29,22 @@ This repository is created for learning and practicing CS and SE concepts, espec
 ## 👩‍💻 Author
 Alisha (BS Computer Science Student)
 
----
+LAB 1: Git Basics
+
+1. Create Repository
+git init
+
+2. Check Status
+git status
+
+3. Add Files
+git add -A
+
+4. Commit Changes
+git commit -m "Initial commit"
+
+5. Connect to Remote
+git remote add origin <repo-link>
+
+6. Push Changes
+git push origin main
