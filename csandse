@@ -43,8 +43,4 @@ git add -A
 4. Commit Changes
 git commit -m "Initial commit"
 
-5. Connect to Remote
-git remote add origin <repo-link>
 
-6. Push Changes
-git push origin main
